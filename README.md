@@ -1,5 +1,3 @@
-Here is the content for your `README.md` file:
-
 # My Calculator
 
 A simple GUI-based calculator application built with Python and Tkinter. This calculator supports basic arithmetic operations and includes additional navigation functions.
